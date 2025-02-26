@@ -60,15 +60,9 @@ This project is a **CNC 2D Drawing Machine** built using an **Arduino Uno**, **L
 - Enable **real-time image-to-G-code conversion** within Processing.
 
 - Feel free to **fork this project, submit pull requests, or report issues**!
+- ## **License**  
+This project is open-source under the **MIT License**.  
 -  
 
 ## **Contributing**  ![WhatsApp Image 2025-02-25 at 23 15 55_326f6c35](https://github.com/user-attachments/assets/459c92bd-1974-40c0-973a-41e8593668c7)
 
-
-
-## **License**  
-This project is open-source under the **MIT License**.  
-
----
-
-This README now includes **Inkscape for G-code generation** and **Processing for sending commands**. Let me know if you need any refinements! 🚀
