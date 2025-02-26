@@ -61,7 +61,7 @@ This project is a **CNC 2D Drawing Machine** built using an **Arduino Uno**, **L
 
 - Feel free to **fork this project, submit pull requests, or report issues**!
 - ## **License**  
-This project is open-source under the **MIT License**.  
+- This project is open-source under the **MIT License**.  
 -  
 
  ![WhatsApp Image 2025-02-25 at 23 15 55_326f6c35](https://github.com/user-attachments/assets/459c92bd-1974-40c0-973a-41e8593668c7)
